@@ -1,0 +1,19 @@
+# .NET 项目
+**/bin/
+**/obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Vite Vue 项目
+**/node_modules/
+**/dist/
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# 系统文件
+.DS_Store
+Thumbs.db
